@@ -1,0 +1,3 @@
+**ESSE PROJETO FOI DESENVOLVIDO POR CAIO DE CASTRO SAMPAIO PRÓSPERO E SEU USO É PERMITIDO APENAS PARA FINS DIDÁTICOS, ASSIM, NÃO SENDO PERMITIDO SEU USO PARA FINS COMERCIAIS**
+
+**Utilização:** O script acessa a API da Finnhub e coleta informações à respeito das ações de empresas da Bolsa de Valores dos Estados Unidos, faz os cálculos das váriações diárias, percentual e em relação ao dia anterior dos valores e, então, gera os gráficos das 5 empresas que as ações mais variaram em cada aspecto positivamente e negativamente. Por fim, é criado um arquivo de relatório em PDF com todos os gráficos. Se usado junto ao Agendador de Tarefas, o script é capaz de gerar um relatório diário das ações, podendo ser alterado até para gerar relatórios em horários específicos. 
